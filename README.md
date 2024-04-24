@@ -1,8 +1,7 @@
 # Conventional-to-Transformer-for-Hyperspectral-Image-Classification-Survey-2024
 
-## Reference
-
-This code is used for our Survey paper: A Survey on Current Trends and Future Prospects for Hyperspectral Image Classification
+# Reference
+## This code is used for our Survey paper: [Traditional to Transformers: A Survey on Current Trends and Future Prospects for Hyperspectral Image Classification](). The paper is also accessible on ArXiv via the following link: "[https://arxiv.org/abs/2404.14945](https://arxiv.org/abs/2404.14955)"
 
 
 ## (2+1)D Extreme Xception Net
