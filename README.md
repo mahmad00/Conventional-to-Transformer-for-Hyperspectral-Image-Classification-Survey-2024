@@ -12,7 +12,7 @@
       primaryClass={cs.CV}
 }
 
-#OR
+# OR
 
 ## This code is used for our Survey paper: [Traditional to Transformers: A Survey on Current Trends and Future Prospects for Hyperspectral Image Classification](https://arxiv.org/abs/2404.14955). The paper is accessible on ArXiv via the following link: "[https://arxiv.org/abs/2404.14945](https://arxiv.org/abs/2404.14955)"
 
